@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Saif ur Rehman 👋
 
-<!--
-**Saif-Rehman-786/Saif-Rehman-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about learning web development and building useful applications. Currently, I'm strengthening my programming fundamentals and working on practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Tools
+
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+### 🎯 Current Goals
+
+- Improve my JavaScript skills
+- Become a Full-Stack Developer
+- Build real-world projects
+- Improve problem-solving skills
+
+### 🌱 Currently Learning
+
+JavaScript | MERN Stack | Data Structures
+
+### 📫 Connect With Me
+
+- GitHub: [Saif-Rehman-786](https://github.com/Saif-Rehman-786)
+
+---
+
+*Learning every day. Building step by step. 🚀*
